@@ -1,0 +1,10 @@
+body{
+  background-color: floralwhite;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+img{
+  height: 60%;
+  width: 60%;
+}
